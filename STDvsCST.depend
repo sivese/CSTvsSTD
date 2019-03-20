@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1552973370 source:f:\project\c++\stdvscst\main.cpp
+	<iostream>
+	"cstlab.h"
+
+1552851764 source:f:\project\c++\stdvscst\csstk.cpp
+	"csstk.h"
+
+1552851759 f:\project\c++\stdvscst\csstk.h
+	<memory>
+
+1552973544 source:f:\project\c++\stdvscst\cstlab.cpp
+	"cstlab.h"
+	"pfmc.h"
+	<time.h>
+
+1552973492 f:\project\c++\stdvscst\cstlab.h
+	<iostream>
+
+1552927459 f:\project\c++\stdvscst\pfmc.h
+
+1552927461 source:f:\project\c++\stdvscst\pfmc.cpp
+	"pfmc.h"
+	<time.h>
+
